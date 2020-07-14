@@ -19,7 +19,7 @@ class App {
     this.states = {}
 
     // this.initializePromise is only used in testing
-    // indicate app initilization(including all async operations) is complete
+    // indicate app initialization (including all async operations) is complete
     this.initializePromise = this.init()
   }
 
