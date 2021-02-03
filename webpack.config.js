@@ -28,7 +28,7 @@ const externalAssets = {
     zendeskGardenJsDelivrUrl
   ],
   js: [
-    'https://assets.zendesk.com/apps/sdk/2.0/zaf_sdk.js'
+    'https://static.zdassets.com/zendesk_app_framework_sdk/2.0/zaf_sdk.min.js'
   ]
 }
 
